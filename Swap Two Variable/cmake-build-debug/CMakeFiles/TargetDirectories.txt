@@ -1,0 +1,3 @@
+D:/ZZ/Problem Sloving/Swap Two Variable/cmake-build-debug/CMakeFiles/Swap_Two_Variable.dir
+D:/ZZ/Problem Sloving/Swap Two Variable/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ZZ/Problem Sloving/Swap Two Variable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
